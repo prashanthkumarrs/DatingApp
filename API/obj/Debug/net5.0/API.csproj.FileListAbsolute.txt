@@ -128,3 +128,6 @@ C:\DatingApp\api\obj\Debug\net5.0\API.dll
 C:\DatingApp\api\obj\Debug\net5.0\ref\API.dll
 C:\DatingApp\api\obj\Debug\net5.0\API.pdb
 C:\DatingApp\api\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+C:\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+C:\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

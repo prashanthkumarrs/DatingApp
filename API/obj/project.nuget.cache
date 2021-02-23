@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "d2WziP2s/RqnSWUCzG6F+UwIkERmH1JQBelVYJGCzEBGQI/fGPjyaI+lya/Am36fh5QoduRZgIW3r9FslaqNzg==",
+  "dgSpecHash": "9YuJrQhbWrgxlpFDOSGuYjkK0UoZNtS82FzniMgyAennmx8j/lVGLZGPYdPuz3537TKrX/M0DYQFoygMYzZaoA==",
   "success": true,
   "projectFilePath": "C:\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Intel-i5\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Intel-i5\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\Intel-i5\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Intel-i5\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.3\\microsoft.aspnetcore.authentication.jwtbearer.5.0.3.nupkg.sha512",
     "C:\\Users\\Intel-i5\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\5.0.0\\microsoft.aspnetcore.authentication.openidconnect.5.0.0.nupkg.sha512",
@@ -47,6 +49,7 @@
     "C:\\Users\\Intel-i5\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\Intel-i5\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
     "C:\\Users\\Intel-i5\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Intel-i5\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Intel-i5\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
